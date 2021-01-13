@@ -1,12 +1,4 @@
 # Restaurant_Billing_System
-
-This is a desktop apllication made by using java  and mysql
-<br>
-IDE: Eclipse
-<br>UI: Java Swing
-<br>
-Database: Mysql
-<br>
 Features:
 <br>
 This app consist of two views:<br>
